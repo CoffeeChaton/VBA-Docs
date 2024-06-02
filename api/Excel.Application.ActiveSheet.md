@@ -13,7 +13,7 @@ ms.localizationpriority: high
 
 # Application.ActiveSheet property (Excel)
 
-Returns an object that represents the active sheet (the sheet on top) in the active workbook or in the specified window or workbook. Returns **Nothing** if no sheet is active.
+Returns an object that represents the active sheet **[Worksheet](excel.worksheet.md)** (the sheet on top) in the active workbook or in the specified window or workbook. Returns **Nothing** if no sheet is active.
 
 
 ## Syntax

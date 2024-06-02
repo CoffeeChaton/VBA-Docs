@@ -14,4 +14,5 @@ ms.localizationpriority: medium
 # Range.Formula2R1C1Local property (Excel)
 
 This is the Formula2 Variant of Range.FormulaR1C1Local. See Range.Formula2 and Range.FormulaR1C1Local for more detail.
+Returns or sets a **Variant** value that represents the object's formula in A1-style array notation.    
 

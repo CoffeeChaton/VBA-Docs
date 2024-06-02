@@ -13,7 +13,7 @@ ms.localizationpriority: medium
 
 # ChartObjects.Item method (Excel)
 
-Returns a single object from a collection.
+Returns a single object from a collection. **[ChartObjects](Excel.ChartObjects.md)** object
 
 
 ## Syntax

@@ -14,4 +14,4 @@ ms.localizationpriority: medium
 # Range.Formula2Local property (Excel)
 
 This is the Formula2 Variant of Range.FormulaLocal. See Range.Formula2 for more detail.
-
+Returns or sets a **Variant** value that represents the object's formula in A1-style array notation.    
